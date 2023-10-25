@@ -1,0 +1,1 @@
+CREATE TABLE mydb.employees (id INT AUTO_INCREMENT PRIMARY KEY, first_name VARCHAR(45), last_name VARCHAR(45), email_id VARCHAR(45));
